@@ -1,11 +1,15 @@
 {
   "name": "is-it-water",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A very hacky way of checking if a given lat long coordinate is under water",
   "main": "index.js",
   "author": "Emerick Gibson",
   "license": "ISC",
   "dependencies": {
     "pngjs": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GibsS/is-it-water.git"
   }
 }
