@@ -1,6 +1,6 @@
 {
   "name": "is-it-water",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A very hacky way of checking if a given lat long coordinate is under water",
   "main": "index.js",
   "author": "Emerick Gibson",

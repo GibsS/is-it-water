@@ -1,6 +1,8 @@
 # Google Maps Static API, am I in water?
 
-**Caution: This is a hacky way of checking for water using Google Maps Static API, we do not recommend its use in a production environment.**
+A simple way of checking if a lat long coordinate is in water.
+
+**Caution: This is a hacky way of checking for water using Google Maps Static API, we do not guarantee this is the best way to do it in a live environment.**
 
 **This is ideal for one off polling of a few hundred or a few thousand data points.**
 
